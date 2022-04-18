@@ -1,0 +1,19 @@
+h1 {
+  font-family: cursive;
+  text-align: center;
+  color: red;
+}
+p {
+  font-family: sans-serif;
+  text-align: center;
+  color: #534b4b;
+}
+
+a {
+  color: rgb(230, 186, 27);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
