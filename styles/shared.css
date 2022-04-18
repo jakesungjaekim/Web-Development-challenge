@@ -5,17 +5,12 @@
 
 body {
   text-align: center;
-}
-
-img {
-  width: 200px;
-  height: 200px;
-  border-radius: 300px;
+  background-color: rgb(233, 215, 207);
 }
 
 h1 {
   font-family: "Jua";
-  color: red;
+  color: rgb(110, 190, 224);
 }
 
 p {
@@ -30,10 +25,4 @@ a {
 a:hover {
   text-decoration: underline;
   color: red;
-}
-
-#todays-challenge {
-  color: rgb(230, 186, 27);
-  font-weight: bold;
-  font-size: 52px;
 }

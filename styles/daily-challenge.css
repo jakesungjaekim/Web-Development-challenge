@@ -1,0 +1,25 @@
+* {
+  font-family: "Jua", sans-serif;
+  font-family: "Stylish", sans-serif;
+}
+
+body {
+  margin: 50px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 300px;
+}
+
+h1 {
+  font-family: "Jua";
+  color: rgb(110, 190, 224);
+}
+
+#todays-challenge {
+  color: rgb(230, 186, 27);
+  font-weight: bold;
+  font-size: 52px;
+}
