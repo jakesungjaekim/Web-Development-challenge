@@ -6,6 +6,7 @@
 body {
   text-align: center;
   background-color: rgb(233, 215, 207);
+  margin: 50px;
 }
 
 h1 {
@@ -25,4 +26,9 @@ a {
 a:hover {
   text-decoration: underline;
   color: red;
+}
+
+.daily-goal {
+  margin: 12px;
+  color: rgb(71, 29, 22);
 }

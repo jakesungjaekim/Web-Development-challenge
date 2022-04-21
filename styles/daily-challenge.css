@@ -3,17 +3,31 @@
   font-family: "Stylish", sans-serif;
 }
 
-body {
-  margin: 50px;
+main {
+  width: 800px;
+  margin: 200px auto 72px auto;
+  background-color: rgb(219, 108, 94);
+  padding: 24px;
+  border: 5px solid rgb(44, 44, 44);
+  border-radius: 8px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.3);
 }
 
 img {
+  border: 5px solid rgb(44, 44, 44);
   width: 200px;
   height: 200px;
   border-radius: 300px;
+  margin-top: -150px;
+}
+
+span {
+  font-family: "Jua", sans-serif;
+  color: rgb(212, 56, 100);
 }
 
 h1 {
+  font-size: 30px;
   font-family: "Jua";
   color: rgb(110, 190, 224);
 }
@@ -21,5 +35,5 @@ h1 {
 #todays-challenge {
   color: rgb(230, 186, 27);
   font-weight: bold;
-  font-size: 52px;
+  font-size: 36px;
 }

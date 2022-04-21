@@ -4,13 +4,13 @@ h1 {
   margin: 12px 0px;
 }
 
-/* #description {
-  margin-bottom: 36px;
-} */
-
+#description {
+  margin-bottom: 8px;
+}
+/* 
 header p {
   margin-bottom: 36px;
-}
+} */
 
 a {
   padding: 12px 48px;
@@ -19,6 +19,8 @@ a {
   border: 1px solid rgb(167, 1, 78);
   border-radius: 4px;
   font-size: 24px;
+  margin: 30px 12px;
+  display: inline-block;
 }
 
 a:hover {
@@ -38,6 +40,7 @@ li {
   margin: 32px;
   background-color: rgb(223, 136, 124);
   border-radius: 6px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 h2 {
